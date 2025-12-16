@@ -56,9 +56,12 @@ messages.
 ## Review
 
 Smaller changes might be merged with little fanfare, but larger changes will
-require more time and effort to review. Splitting patches properly into commits
-(see above) can help a lot reduce review time. Please feel free to bump your
-patch by pinging me every two weeks or so without activity.
+require more time and effort to review. Some patches might be rejected, for
+instance because a new feature is deemed undesirable.
+
+Splitting patches properly into commits (see above) can help a lot reduce
+review time. Please feel free to bump your patch by pinging me every two weeks
+or so without activity.
 
 If you do get asked to revise the patches, please bear in mind the notes above.
 You should use `git rebase -i` to make revisions, so that your patches follow
