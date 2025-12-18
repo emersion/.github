@@ -1,5 +1,12 @@
 # Contributing
 
+## Preparing the work
+
+If you're planning to work on a large feature, please come discuss in
+[#emersion on Libera Chat] before starting the implementation. This will ensure
+everybody is on the same page. For very large features, writing a design
+document can be very helpful for maintainers.
+
 ## Commit log
 
 A [linear, "recipe" style][linear-log] history is used. This means that every
@@ -89,6 +96,7 @@ as:
 The reviewer may still decide to reject the patch without further
 justification.
 
+[#emersion on Libera Chat]: https://web.libera.chat/gamja/#emersion
 [linear-log]: https://www.bitsnbites.eu/git-history-work-log-vs-recipe/
 [git-rebase.io]: https://git-rebase.io
 [notes on commit messages]: http://who-t.blogspot.de/2009/12/on-commit-messages.html
