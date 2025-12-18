@@ -69,6 +69,27 @@ the clear linear split documented above. Following that split makes it easier
 for reviewers to understand your work, and to verify that the code you're
 submitting is correct.
 
+## Use of LLMs
+
+Vegetarians don't force their eating habits onto everybody else. In the same
+spirit, regardless of the reviewer's opinion about large language models
+(LLMs), patches written with the help of LLMs aren't outright rejected as long
+as:
+
+- The patch author has a full understanding of the submitted code. The author
+  has carefully reviewed the output of the tool used to generate the patch.
+- The patch (and assorted description) is indistinguishable from one fully
+  written by a human. In particular, the submission doesn't contain huge walls
+  of unnecessary text or code.
+- The patch author agrees to the [Developer Certificate of Origin]. In
+  particular, the author certifies that they have the right to submit the patch
+  under the project's open-source license.
+- The patch author discloses their use of LLMs in the description.
+
+The reviewer may still decide to reject the patch without further
+justification.
+
 [linear-log]: https://www.bitsnbites.eu/git-history-work-log-vs-recipe/
 [git-rebase.io]: https://git-rebase.io
 [notes on commit messages]: http://who-t.blogspot.de/2009/12/on-commit-messages.html
+[Developer Certificate of Origin]: https://developercertificate.org/
