@@ -90,8 +90,10 @@ as:
   of unnecessary text or code.
 - The patch author agrees to the [Developer Certificate of Origin]. In
   particular, the author certifies that they have the right to submit the patch
-  under the project's open-source license.
-- The patch author discloses their use of LLMs in the description.
+  under the project's open-source license. This can be achieved by adding a
+  `Signed-off-by` trailer to the commit description.
+- The patch author discloses their use of LLMs in the description. This can be
+  achieved by adding an `Assisted-by` trailer to the commit description.
 
 The reviewer may still decide to reject the patch without further
 justification.
