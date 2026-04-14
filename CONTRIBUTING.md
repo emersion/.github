@@ -85,6 +85,7 @@ as:
 
 - The patch author has a full understanding of the submitted code. The author
   has carefully reviewed the output of the tool used to generate the patch.
+  Autonomously acting tools are not allowed to contribute.
 - The patch (and assorted description) is indistinguishable from one fully
   written by a human. In particular, the submission doesn't contain huge walls
   of unnecessary text or code.
