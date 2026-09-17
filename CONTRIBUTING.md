@@ -89,6 +89,8 @@ as:
 - The patch (and assorted description) is indistinguishable from one fully
   written by a human. In particular, the submission doesn't contain huge walls
   of unnecessary text or code.
+- An LLM hasn't been used to write the patch title, description or comments.
+  The reviewer is not interested in talking to a machine.
 - The patch author agrees to the [Developer Certificate of Origin]. In
   particular, the author certifies that they have the right to submit the patch
   under the project's open-source license. This can be achieved by adding a
